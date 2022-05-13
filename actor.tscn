@@ -24,5 +24,10 @@ material/0 = null
 [node name="r_vr" type="Spatial" parent="r_hz"]
 
 [node name="Camera" type="Camera" parent="r_hz/r_vr"]
-transform = Transform( 1, 0, 0, 0, -4.37114e-08, 1, 0, -1, -4.37114e-08, 0, 23.2779, 0 )
+transform = Transform( 1, 0, 0, 0, -4.37114e-08, 1, 0, -1, -4.37114e-08, 0, 6.40314, 0 )
 current = true
+
+[node name="SpotLight" type="SpotLight" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.0714903 )
+light_energy = 6.725
+spot_range = 15.6361

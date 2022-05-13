@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/tile.png-b6edd167b3cc7ec58612b18f9a6dce92.s3tc.stex"
-path.etc2="res://.import/tile.png-b6edd167b3cc7ec58612b18f9a6dce92.etc2.stex"
+path.s3tc="res://.import/azalea_top.png-f9d12e14c6303a3ab67cd643b0897c04.s3tc.stex"
+path.etc2="res://.import/azalea_top.png-f9d12e14c6303a3ab67cd643b0897c04.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://tile.png"
-dest_files=[ "res://.import/tile.png-b6edd167b3cc7ec58612b18f9a6dce92.s3tc.stex", "res://.import/tile.png-b6edd167b3cc7ec58612b18f9a6dce92.etc2.stex" ]
+source_file="res://assets/azalea_top.png"
+dest_files=[ "res://.import/azalea_top.png-f9d12e14c6303a3ab67cd643b0897c04.s3tc.stex", "res://.import/azalea_top.png-f9d12e14c6303a3ab67cd643b0897c04.etc2.stex" ]
 
 [params]
 

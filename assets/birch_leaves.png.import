@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/tile.png-b6edd167b3cc7ec58612b18f9a6dce92.s3tc.stex"
-path.etc2="res://.import/tile.png-b6edd167b3cc7ec58612b18f9a6dce92.etc2.stex"
+path.s3tc="res://.import/birch_leaves.png-35aa6d9f59a10028fb35f6c0e0521b77.s3tc.stex"
+path.etc2="res://.import/birch_leaves.png-35aa6d9f59a10028fb35f6c0e0521b77.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://tile.png"
-dest_files=[ "res://.import/tile.png-b6edd167b3cc7ec58612b18f9a6dce92.s3tc.stex", "res://.import/tile.png-b6edd167b3cc7ec58612b18f9a6dce92.etc2.stex" ]
+source_file="res://assets/birch_leaves.png"
+dest_files=[ "res://.import/birch_leaves.png-35aa6d9f59a10028fb35f6c0e0521b77.s3tc.stex", "res://.import/birch_leaves.png-35aa6d9f59a10028fb35f6c0e0521b77.etc2.stex" ]
 
 [params]
 

@@ -6,16 +6,18 @@
 extents = Vector3( 0.5, 0.001, 0.5 )
 
 [sub_resource type="SpatialMaterial" id=3]
+resource_local_to_scene = true
 albedo_texture = ExtResource( 1 )
 
 [sub_resource type="PlaneMesh" id=2]
+resource_local_to_scene = true
 material = SubResource( 3 )
 size = Vector2( 1, 1 )
 
 [node name="Spatial" type="Spatial"]
 
 [node name="StaticBody" type="StaticBody" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.5, 0, 0.5 )
+transform = Transform( 10, 0, 0, 0, 1, 0, 0, 0, 10, 5, 0, 5 )
 
 [node name="CollisionShape" type="CollisionShape" parent="StaticBody"]
 shape = SubResource( 1 )
